@@ -6,7 +6,7 @@
 
 This repository contains the software assets and Functional Design Specification (FDS) for an automated conveyor filling station. The objective is to detect arriving containers, identify their colored labels, dispense the correct product (pecans or walnuts), and dispatch the filled containers using discrete logic execution.
 
-**Target Hardware/Environment:** RSLogix 500 Micro Starter Lite                                                                                                                                                                                                                                                                                        
+**Target Hardware/Environment:** RSLogix 500 Micro Starter Lite - free license                                                                                                                                                                                                                                                                                       
 **Programming Language:** Ladder Diagram (LD)
 
 ## 2.0 System Architecture & Process Flow
